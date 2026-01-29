@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sjtu-cg.github.io/sitemap.xml
