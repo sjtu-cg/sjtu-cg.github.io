@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "SJTUComputationalGenomics/Lab_Website",
+    "data-repo": "sjtu-cg/Lab_Website",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
