@@ -440,12 +440,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-ce-paper",
+            },},{id: "news-the-ampliconsuite-paper-is-online-in-nature-methods",
+          title: 'The AmpliconSuite paper is online in Nature Methods.',
+          description: "",
+          section: "News",},{id: "news-ce-paper",
           title: 'Ce Paper',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ce-paper/";
-            },},{id: "projects-project-1",
+            },},{id: "news-welcome-jiaqi-gaoang-boya-and-mingze-to-the-lab",
+          title: 'Welcome Jiaqi, Gaoang, Boya and Mingze to the lab!',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
