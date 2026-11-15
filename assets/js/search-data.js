@@ -440,6 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-ce-paper",
+          title: 'Ce Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/ce-paper/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
