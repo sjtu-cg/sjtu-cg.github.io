@@ -449,14 +449,6 @@ ninja.data = [{
           section: "News",},{id: "news-the-cycle-extractor-ce-paper-is-online-in-genome-research",
           title: 'The Cycle-Extractor (CE) paper is online in Genome Research.',
           description: "",
-          section: "News",},{id: "news-ce-paper",
-          title: 'Ce Paper',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/ce-paper/";
-            },},{id: "news-welcome-jiaqi-gaoang-boya-and-mingze-to-the-lab",
-          title: 'Welcome Jiaqi, Gaoang, Boya and Mingze to the lab!',
-          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
