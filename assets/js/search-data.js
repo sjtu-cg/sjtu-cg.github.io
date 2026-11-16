@@ -440,8 +440,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-ampliconsuite-paper-is-online-in-nature-methods",
+            },},{id: "news-welcome-jiaqi-gaoang-boya-and-mingze-to-the-lab",
+          title: 'Welcome Jiaqi, Gaoang, Boya and Mingze to the lab!',
+          description: "",
+          section: "News",},{id: "news-the-ampliconsuite-paper-is-online-in-nature-methods",
           title: 'The AmpliconSuite paper is online in Nature Methods.',
+          description: "",
+          section: "News",},{id: "news-the-ampliconsuite-paper-is-online-in-nature-methods",
+          title: 'The AmpliconSuite paper is online in Nature Methods.',
+          description: "",
+          section: "News",},{id: "news-the-cycle-extractor-ce-paper-is-online-in-genome-research",
+          title: 'The Cycle-Extractor (CE) paper is online in Genome Research.',
           description: "",
           section: "News",},{id: "news-ce-paper",
           title: 'Ce Paper',
